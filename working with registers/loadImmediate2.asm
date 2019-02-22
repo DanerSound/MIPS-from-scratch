@@ -1,10 +1,10 @@
-#
+# simple commands with loadImmediate
 #
 # fileName:loadImmediate part 2
 
 .data
-.text
 
+.text
 main: li $t0,0  # loadImmediate of 4 bits
       li $t1,1
       li $t2,2
@@ -37,9 +37,6 @@ main: li $t0,0  # loadImmediate of 4 bits
       li $t7,33337777
       li $t8,33338888
       li $t9,33339999
-
-#experiment
-      li $t9,123456789
 
 #exit the program
 li $v0,10
