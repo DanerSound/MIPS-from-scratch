@@ -1,0 +1,14 @@
+# A brief description of the objective program 
+#
+# fileName:
+#
+.data
+
+.text
+
+main:
+
+
+#exit the program
+li $v0,10
+syscall  
