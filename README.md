@@ -1,12 +1,8 @@
 # MIPS-from-scratch
 
-Some very simple test for learn MIPS assembly
+Some very simple test for learn MIPS assembly, I'm going to use this [playlist](https://www.youtube.com/watch?v=IQ7ElPRPBLQ&index=1&list=PLW7Cvy3HywwwiTivCN8jm2yDn9N5Eyxza) for practice. (Based on QTspim).
 
-I use this youtube [playlist](https://www.youtube.com/watch?v=u5Foo6mmW0I&list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A) for practice. (Based on MARS).
-
-You can download MARS from [here](http://courses.missouristate.edu/KenVollmar/mars/download.htm).
-
-you can try also [QtSpim](https://sourceforge.net/projects/spimsimulator/files/)
+You can download [QtSpim](https://sourceforge.net/projects/spimsimulator/files/). You can download MARS[here](http://courses.missouristate.edu/KenVollmar/mars/download.htm).
 
 Some useful sites based on QtSpim :
 
