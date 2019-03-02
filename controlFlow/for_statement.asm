@@ -4,10 +4,10 @@
 .data
 .text 
 main:
-	move $t0, $zero	# force index to zero	
-	li   $t1, 5	# load the max size 
+	move $t0, $zero		# force index to zero	
+	li   $t1, 5		# load the max size 
 
-for:	blt  $t1, $t0, exit
+for:	blt  $t1, $t0, exit 	# branch less than <= si fermerà a uno in più
 	add  $t0, $t0, 1
 	j    for
 	
