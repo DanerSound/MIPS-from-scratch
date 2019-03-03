@@ -1,7 +1,10 @@
- quick summary
- arithmetic operations can only be performed on registers
- LOAD and STORE operations have a BYTE addressing
- for more simple example see notebook branch
+ ## Quick Summary
+ 
+ 1. arithmetic operations can only be performed on registers
+ 
+ 2. LOAD and STORE operations have a BYTE addressing
+ 
+ _for more simple example see notebook branch_
 
 | command | meaning |
 |-|-|
