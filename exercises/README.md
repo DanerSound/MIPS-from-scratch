@@ -1,8 +1,8 @@
-## Quick notes about the exercises
+# Quick notes about the exercises
 
-# the syscall of system are :
+## the syscall of system are :
 
-[add immagine]
+![syscalls](https://github.com/DanerSound/MIPS-from-scratch/blob/notebook/resources/syscall.png)
 
 
 0 helloWorld!.asm : it shows the proper code to print any string in console
