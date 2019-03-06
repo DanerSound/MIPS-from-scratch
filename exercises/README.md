@@ -16,6 +16,7 @@
 4 stringLenght.asm : it return the leght of any given string from console
 
 5 checkForB.asm: it return a positive message if the given letter is "b"
+                use Qtspimt to see how is configured in more clearly way 
 
 6 searchArray.asm : it return the position of the element has read from console
 
