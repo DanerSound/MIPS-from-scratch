@@ -1,3 +1,6 @@
+# print a simple string on terminal
+#
+#
 .data
 	myMessage: .asciiz "Hello World \n"
 
